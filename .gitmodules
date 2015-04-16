@@ -1,1 +1,3 @@
-
+[submodel "testujem"]
+  path = testujem
+  url = https://github.com/testujem/myproject.git
